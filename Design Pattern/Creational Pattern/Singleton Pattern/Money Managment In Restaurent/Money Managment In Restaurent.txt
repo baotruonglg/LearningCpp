@@ -1,0 +1,6 @@
+Trong 1 nhà hàng, Có nhiều nhân viên trong cửa hàng. Trong đó có 1 đầu bếp và 1 người quản lý.
+Nhà hàng có chung 1 số tiền nhất định được quản lý bởi đầu bếp và quản lý
+Bài toán: Giả sử số tiền nhà hàng còn 1 triệu. Khi đầu bếp + quản lý cùng truy cập vào xem số tiền trên.
++ Nếu cả đầu bếp và quản lý cùng thấy số tiền trong nhà hàng còn 1 triệu và cả 2 người cùng lấy số tiền ứng trước ra mua đồ
+và cả 2 cùng nghĩ là nhà hàng còn 0đ. Nhưng thực chất nhà hàng đã -1 triệu.
+Yêu cầu: Dùng singleton để giải quyết bài toán

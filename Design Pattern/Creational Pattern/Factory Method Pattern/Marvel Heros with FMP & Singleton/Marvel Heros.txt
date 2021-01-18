@@ -1,0 +1,12 @@
+Chúng ta có 1 cuộc chiến trong Avenger với Thanos. Trong đó:
++ Thanos: 
+         - Máu: 120, Power/hit: 30
++ Captain America:
+         - Máu: 60, Power/hit: 5
++ Tony Stark:
+	 - Máu: 40, Power/hit: 10
++ Thor:
+	 - Máu: 80, Power/hit: 15  
+
+Yêu cầu: Nhóm Avenger cùng Thanos sẽ cùng nhau giao chiến với nhau. Mỗi người sẽ đấm 1 hit vào đối phương. Người nào chết
+sẽ in ra màn hình là người đó chết. Những người còn lại sẽ tiếp tục giao chiến cho đến khi cuộc chiến kết thúc 

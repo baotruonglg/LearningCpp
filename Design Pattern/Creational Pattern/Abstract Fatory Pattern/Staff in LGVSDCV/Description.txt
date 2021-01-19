@@ -1,0 +1,5 @@
+Tại công ty LGVSDCV Đà Nẵng. Công ty được chia thành 2 phòng: C++ và Java. Trong đó:
++ Nhân viên cũ từ Hà Nội chuyển vào
++ Nhân viên mới tại Đà Nẵng
+
+Giả thiết: Công ty tổ chức cuộc thi cuối năm. Nhập vào số điểm của từng người và in ra tên người điểm cao nhất tại HN và ĐN.

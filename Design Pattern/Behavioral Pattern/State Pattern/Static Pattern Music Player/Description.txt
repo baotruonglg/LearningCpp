@@ -1,0 +1,2 @@
+Máy phát nhạc với những trạng thái đơn giản của máy phát nhạc: Play(), Pause() và Stop(). 3 trạng thái hoạt động đại diện
+cho máy phát nhạc. Dựa vào những trạng thái hoạt động để mô tả đối tượng MusicPlayer
